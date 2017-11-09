@@ -1,0 +1,206 @@
+[INFO MainProcess 2017-08-01 16:00:14,433 <module>] program NCanno started in /mnt/NL200/zhouzhq/project/NCanno/NCannoPy/bin with command: /mnt/NL200/zhouzhq/project/NCanno/NCannoPy/bin/NCanno.py /mnt/NL200/zhouzhq/project/NCanno/NCannoPy/bin/config/nc_v13/anno/config_htpart.py /mnt/NL200_1/prod/workspace/IFA20170601001/OncoD/output/170005689BD_170005689FD/variation/hereditary_snv_indel/170005689BD_170005689FD.final.vcf -t vcf -f -q -n 75 -l /mnt/NL200/zhouzhq/project/NCanno/NCannoPy/bin/170005689BD_170005689FD_multiprocessing_log -o /mnt/NL200/zhouzhq/project/NCanno/NCannoPy/bin/170005689BD_170005689FD.htvar.anno.bed.python
+[INFO MainProcess 2017-08-01 16:00:14,433 <module>] 
+[ the number of process is  75]
+[INFO MainProcess 2017-08-01 16:00:14,433 <module>] 
+[ start time: Tue Aug  1 16:00:14 2017]
+[INFO PoolWorker-1 2017-08-01 16:00:15,517 info] child process calling self.run()
+[INFO PoolWorker-2 2017-08-01 16:00:15,518 info] child process calling self.run()
+[INFO PoolWorker-3 2017-08-01 16:00:15,519 info] child process calling self.run()
+[INFO PoolWorker-4 2017-08-01 16:00:15,520 info] child process calling self.run()
+[INFO PoolWorker-5 2017-08-01 16:00:15,521 info] child process calling self.run()
+[INFO PoolWorker-6 2017-08-01 16:00:15,522 info] child process calling self.run()
+[INFO PoolWorker-7 2017-08-01 16:00:15,523 info] child process calling self.run()
+[INFO PoolWorker-8 2017-08-01 16:00:15,524 info] child process calling self.run()
+[INFO PoolWorker-9 2017-08-01 16:00:15,525 info] child process calling self.run()
+[INFO PoolWorker-10 2017-08-01 16:00:15,526 info] child process calling self.run()
+[INFO PoolWorker-11 2017-08-01 16:00:15,527 info] child process calling self.run()
+[INFO PoolWorker-12 2017-08-01 16:00:15,528 info] child process calling self.run()
+[INFO PoolWorker-13 2017-08-01 16:00:15,529 info] child process calling self.run()
+[INFO PoolWorker-14 2017-08-01 16:00:15,530 info] child process calling self.run()
+[INFO PoolWorker-15 2017-08-01 16:00:15,531 info] child process calling self.run()
+[INFO PoolWorker-16 2017-08-01 16:00:15,532 info] child process calling self.run()
+[INFO PoolWorker-17 2017-08-01 16:00:15,533 info] child process calling self.run()
+[INFO PoolWorker-18 2017-08-01 16:00:15,534 info] child process calling self.run()
+[INFO PoolWorker-19 2017-08-01 16:00:15,535 info] child process calling self.run()
+[INFO PoolWorker-20 2017-08-01 16:00:15,536 info] child process calling self.run()
+[INFO PoolWorker-21 2017-08-01 16:00:15,537 info] child process calling self.run()
+[INFO PoolWorker-22 2017-08-01 16:00:15,538 info] child process calling self.run()
+[INFO PoolWorker-23 2017-08-01 16:00:15,539 info] child process calling self.run()
+[INFO PoolWorker-24 2017-08-01 16:00:15,540 info] child process calling self.run()
+[INFO PoolWorker-25 2017-08-01 16:00:15,541 info] child process calling self.run()
+[INFO PoolWorker-26 2017-08-01 16:00:15,542 info] child process calling self.run()
+[INFO PoolWorker-27 2017-08-01 16:00:15,543 info] child process calling self.run()
+[INFO PoolWorker-28 2017-08-01 16:00:15,544 info] child process calling self.run()
+[INFO PoolWorker-29 2017-08-01 16:00:15,545 info] child process calling self.run()
+[INFO PoolWorker-30 2017-08-01 16:00:15,546 info] child process calling self.run()
+[INFO PoolWorker-31 2017-08-01 16:00:15,547 info] child process calling self.run()
+[INFO PoolWorker-32 2017-08-01 16:00:15,548 info] child process calling self.run()
+[INFO PoolWorker-33 2017-08-01 16:00:15,549 info] child process calling self.run()
+[INFO PoolWorker-34 2017-08-01 16:00:15,550 info] child process calling self.run()
+[INFO PoolWorker-35 2017-08-01 16:00:15,551 info] child process calling self.run()
+[INFO PoolWorker-36 2017-08-01 16:00:15,552 info] child process calling self.run()
+[INFO PoolWorker-37 2017-08-01 16:00:15,554 info] child process calling self.run()
+[INFO PoolWorker-38 2017-08-01 16:00:15,555 info] child process calling self.run()
+[INFO PoolWorker-39 2017-08-01 16:00:15,556 info] child process calling self.run()
+[INFO PoolWorker-40 2017-08-01 16:00:15,557 info] child process calling self.run()
+[INFO PoolWorker-41 2017-08-01 16:00:15,558 info] child process calling self.run()
+[INFO PoolWorker-42 2017-08-01 16:00:15,559 info] child process calling self.run()
+[INFO PoolWorker-43 2017-08-01 16:00:15,560 info] child process calling self.run()
+[INFO PoolWorker-44 2017-08-01 16:00:15,561 info] child process calling self.run()
+[INFO PoolWorker-45 2017-08-01 16:00:15,562 info] child process calling self.run()
+[INFO PoolWorker-46 2017-08-01 16:00:15,563 info] child process calling self.run()
+[INFO PoolWorker-47 2017-08-01 16:00:15,564 info] child process calling self.run()
+[INFO PoolWorker-48 2017-08-01 16:00:15,565 info] child process calling self.run()
+[INFO PoolWorker-49 2017-08-01 16:00:15,567 info] child process calling self.run()
+[INFO PoolWorker-50 2017-08-01 16:00:15,568 info] child process calling self.run()
+[INFO PoolWorker-51 2017-08-01 16:00:15,569 info] child process calling self.run()
+[INFO PoolWorker-52 2017-08-01 16:00:15,570 info] child process calling self.run()
+[INFO PoolWorker-53 2017-08-01 16:00:15,571 info] child process calling self.run()
+[INFO PoolWorker-54 2017-08-01 16:00:15,572 info] child process calling self.run()
+[INFO PoolWorker-55 2017-08-01 16:00:15,574 info] child process calling self.run()
+[INFO PoolWorker-56 2017-08-01 16:00:15,575 info] child process calling self.run()
+[INFO PoolWorker-57 2017-08-01 16:00:15,576 info] child process calling self.run()
+[INFO PoolWorker-58 2017-08-01 16:00:15,577 info] child process calling self.run()
+[INFO PoolWorker-59 2017-08-01 16:00:15,578 info] child process calling self.run()
+[INFO PoolWorker-60 2017-08-01 16:00:15,579 info] child process calling self.run()
+[INFO PoolWorker-61 2017-08-01 16:00:15,581 info] child process calling self.run()
+[INFO PoolWorker-62 2017-08-01 16:00:15,582 info] child process calling self.run()
+[INFO PoolWorker-63 2017-08-01 16:00:15,583 info] child process calling self.run()
+[INFO PoolWorker-64 2017-08-01 16:00:15,584 info] child process calling self.run()
+[INFO PoolWorker-65 2017-08-01 16:00:15,585 info] child process calling self.run()
+[INFO PoolWorker-66 2017-08-01 16:00:15,586 info] child process calling self.run()
+[INFO PoolWorker-67 2017-08-01 16:00:15,587 info] child process calling self.run()
+[INFO PoolWorker-68 2017-08-01 16:00:15,589 info] child process calling self.run()
+[INFO PoolWorker-69 2017-08-01 16:00:15,590 info] child process calling self.run()
+[INFO PoolWorker-70 2017-08-01 16:00:15,591 info] child process calling self.run()
+[INFO PoolWorker-71 2017-08-01 16:00:15,592 info] child process calling self.run()
+[INFO PoolWorker-72 2017-08-01 16:00:15,593 info] child process calling self.run()
+[INFO PoolWorker-73 2017-08-01 16:00:15,595 info] child process calling self.run()
+[INFO PoolWorker-74 2017-08-01 16:00:15,596 info] child process calling self.run()
+[INFO PoolWorker-75 2017-08-01 16:00:15,597 info] child process calling self.run()
+[INFO PoolWorker-62 2017-08-01 16:28:03,838 info] process shutting down
+[INFO PoolWorker-62 2017-08-01 16:28:03,838 info] process exiting with exitcode 0
+[INFO PoolWorker-24 2017-08-01 16:28:03,838 info] process shutting down
+[INFO PoolWorker-67 2017-08-01 16:28:03,838 info] process shutting down
+[INFO PoolWorker-55 2017-08-01 16:28:03,838 info] process shutting down
+[INFO PoolWorker-12 2017-08-01 16:28:03,838 info] process exiting with exitcode 0
+[INFO PoolWorker-18 2017-08-01 16:28:03,838 info] process shutting down
+[INFO PoolWorker-24 2017-08-01 16:28:03,838 info] process exiting with exitcode 0
+[INFO PoolWorker-67 2017-08-01 16:28:03,838 info] process exiting with exitcode 0
+[INFO PoolWorker-55 2017-08-01 16:28:03,838 info] process exiting with exitcode 0
+[INFO PoolWorker-42 2017-08-01 16:28:03,838 info] process shutting down
+[INFO PoolWorker-65 2017-08-01 16:28:03,838 info] process shutting down
+[INFO PoolWorker-41 2017-08-01 16:28:03,838 info] process exiting with exitcode 0
+[INFO PoolWorker-18 2017-08-01 16:28:03,838 info] process exiting with exitcode 0
+[INFO PoolWorker-29 2017-08-01 16:28:03,838 info] process shutting down
+[INFO PoolWorker-1 2017-08-01 16:28:03,838 info] process shutting down
+
+[INFO PoolWorker-42 2017-08-01 16:28:03,838 info] process exiting with exitcode 0
+[INFO PoolWorker-65 2017-08-01 16:28:03,838 info] process exiting with exitcode 0
+[INFO PoolWorker-51 2017-08-01 16:28:03,838 info] process shutting down
+[INFO PoolWorker-29 2017-08-01 16:28:03,838 info] process exiting with exitcode 0
+[INFO PoolWorker-39 2017-08-01 16:28:03,838 info] process exiting with exitcode 0
+[INFO PoolWorker-1 2017-08-01 16:28:03,838 info] process exiting with exitcode 0
+[INFO PoolWorker-9 2017-08-01 16:28:03,838 info] process shutting down
+[INFO PoolWorker-30 2017-08-01 16:28:03,838 info] process shutting down
+[INFO PoolWorker-9 2017-08-01 16:28:03,839 info] process exiting with exitcode 0
+[INFO PoolWorker-30 2017-08-01 16:28:03,839 info] process exiting with exitcode 0
+[INFO PoolWorker-23 2017-08-01 16:28:03,840 info] process shutting down
+[INFO PoolWorker-23 2017-08-01 16:28:03,840 info] process exiting with exitcode 0
+[INFO PoolWorker-47 2017-08-01 16:28:03,840 info] process shutting down
+[INFO PoolWorker-25 2017-08-01 16:28:03,840 info] process shutting down
+[INFO PoolWorker-6 2017-08-01 16:28:03,840 info] process shutting down
+[INFO PoolWorker-2 2017-08-01 16:28:03,840 info] process shutting down
+[INFO PoolWorker-35 2017-08-01 16:28:03,840 info] process shutting down
+[INFO PoolWorker-13 2017-08-01 16:28:03,840 info] process shutting down
+[INFO PoolWorker-6 2017-08-01 16:28:03,841 info] process exiting with exitcode 0
+[INFO PoolWorker-25 2017-08-01 16:28:03,841 info] process exiting with exitcode 0
+[INFO PoolWorker-2 2017-08-01 16:28:03,841 info] process exiting with exitcode 0
+[INFO PoolWorker-35 2017-08-01 16:28:03,841 info] process exiting with exitcode 0
+[INFO PoolWorker-13 2017-08-01 16:28:03,841 info] process exiting with exitcode 0
+[INFO PoolWorker-68 2017-08-01 16:28:03,841 info] process shutting down
+[INFO PoolWorker-17 2017-08-01 16:28:03,841 info] process shutting down
+[INFO PoolWorker-11 2017-08-01 16:28:03,841 info] process shutting down
+[INFO PoolWorker-64 2017-08-01 16:28:03,841 info] process shutting down
+[INFO PoolWorker-68 2017-08-01 16:28:03,841 info] process exiting with exitcode 0
+[INFO PoolWorker-17 2017-08-01 16:28:03,841 info] process exiting with exitcode 0
+[INFO PoolWorker-60 2017-08-01 16:28:03,841 info] process shutting down
+[INFO PoolWorker-11 2017-08-01 16:28:03,841 info] process exiting with exitcode 0
+[INFO PoolWorker-64 2017-08-01 16:28:03,841 info] process exiting with exitcode 0
+[INFO PoolWorker-38 2017-08-01 16:28:03,841 info] process shutting down
+[INFO PoolWorker-22 2017-08-01 16:28:03,841 info] process shutting down
+[INFO PoolWorker-60 2017-08-01 16:28:03,841 info] process exiting with exitcode 0
+[INFO PoolWorker-73 2017-08-01 16:28:03,841 info] process shutting down
+[INFO PoolWorker-38 2017-08-01 16:28:03,841 info] process exiting with exitcode 0
+[INFO PoolWorker-22 2017-08-01 16:28:03,841 info] process exiting with exitcode 0
+[INFO PoolWorker-49 2017-08-01 16:28:03,841 info] process shutting down
+[INFO PoolWorker-73 2017-08-01 16:28:03,841 info] process exiting with exitcode 0
+[INFO PoolWorker-72 2017-08-01 16:28:03,841 info] process shutting down
+[INFO PoolWorker-33 2017-08-01 16:28:03,841 info] process shutting down
+[INFO PoolWorker-46 2017-08-01 16:28:03,841 info] process shutting down
+[INFO PoolWorker-27 2017-08-01 16:28:03,841 info] process shutting down
+[INFO PoolWorker-10 2017-08-01 16:28:03,841 info] process shutting down
+[INFO PoolWorker-49 2017-08-01 16:28:03,841 info] process exiting with exitcode 0
+[INFO PoolWorker-72 2017-08-01 16:28:03,841 info] process exiting with exitcode 0
+[INFO PoolWorker-33 2017-08-01 16:28:03,841 info] process exiting with exitcode 0
+[INFO PoolWorker-27 2017-08-01 16:28:03,841 info] process exiting with exitcode 0
+[INFO PoolWorker-26 2017-08-01 16:28:03,841 info] process shutting down
+[INFO PoolWorker-10 2017-08-01 16:28:03,841 info] process exiting with exitcode 0
+[INFO PoolWorker-34 2017-08-01 16:28:03,841 info] process shutting down
+[INFO PoolWorker-26 2017-08-01 16:28:03,841 info] process exiting with exitcode 0
+[INFO PoolWorker-61 2017-08-01 16:28:03,841 info] process exiting with exitcode 0
+[INFO PoolWorker-48 2017-08-01 16:28:03,841 info] process shutting down
+[INFO PoolWorker-34 2017-08-01 16:28:03,842 info] process exiting with exitcode 0
+[INFO PoolWorker-50 2017-08-01 16:28:03,841 info] process shutting down
+[INFO PoolWorker-20 2017-08-01 16:28:03,841 info] process shutting down
+[INFO PoolWorker-43 2017-08-01 16:28:03,841 info] process shutting down
+[INFO PoolWorker-70 2017-08-01 16:28:03,842 info] process shutting down
+[INFO PoolWorker-48 2017-08-01 16:28:03,842 info] process exiting with exitcode 0
+[INFO PoolWorker-14 2017-08-01 16:28:03,842 info] process shutting down
+[INFO PoolWorker-20 2017-08-01 16:28:03,842 info] process exiting with exitcode 0
+[INFO PoolWorker-52 2017-08-01 16:28:03,842 info] process exiting with exitcode 0
+[INFO PoolWorker-32 2017-08-01 16:28:03,842 info] process shutting down
+[INFO PoolWorker-4 2017-08-01 16:28:03,842 info] process shutting down
+[INFO PoolWorker-14 2017-08-01 16:28:03,842 info] process exiting with exitcode 0
+[INFO PoolWorker-56 2017-08-01 16:28:03,842 info] process exiting with exitcode 0
+[INFO PoolWorker-32 2017-08-01 16:28:03,842 info] process exiting with exitcode 0
+[INFO PoolWorker-31 2017-08-01 16:28:03,842 info] process shutting down
+[INFO PoolWorker-4 2017-08-01 16:28:03,842 info] process exiting with exitcode 0
+[INFO PoolWorker-31 2017-08-01 16:28:03,842 info] process exiting with exitcode 0
+[INFO PoolWorker-59 2017-08-01 16:28:03,852 info] process shutting down
+[INFO PoolWorker-5 2017-08-01 16:28:03,852 info] process shutting down
+[INFO PoolWorker-59 2017-08-01 16:28:03,852 info] process exiting with exitcode 0
+[INFO PoolWorker-58 2017-08-01 16:28:03,852 info] process shutting down
+[INFO PoolWorker-5 2017-08-01 16:28:03,852 info] process exiting with exitcode 0
+[INFO PoolWorker-58 2017-08-01 16:28:03,852 info] process exiting with exitcode 0
+[INFO PoolWorker-19 2017-08-01 16:28:03,853 info] process shutting down
+[INFO PoolWorker-19 2017-08-01 16:28:03,853 info] process exiting with exitcode 0
+[INFO PoolWorker-45 2017-08-01 16:28:03,853 info] process shutting down
+[INFO PoolWorker-45 2017-08-01 16:28:03,853 info] process exiting with exitcode 0
+[INFO PoolWorker-15 2017-08-01 16:28:03,853 info] process shutting down
+[INFO PoolWorker-15 2017-08-01 16:28:03,854 info] process exiting with exitcode 0
+[INFO PoolWorker-16 2017-08-01 16:28:03,875 info] process shutting down
+[INFO PoolWorker-16 2017-08-01 16:28:03,875 info] process exiting with exitcode 0
+[INFO PoolWorker-3 2017-08-01 16:28:03,878 info] process shutting down
+[INFO PoolWorker-3 2017-08-01 16:28:03,878 info] process exiting with exitcode 0
+[INFO PoolWorker-53 2017-08-01 16:28:03,878 info] process shutting down
+[INFO PoolWorker-53 2017-08-01 16:28:03,878 info] process exiting with exitcode 0
+[INFO PoolWorker-36 2017-08-01 16:28:03,884 info] process shutting down
+[INFO PoolWorker-36 2017-08-01 16:28:03,885 info] process exiting with exitcode 0
+[INFO PoolWorker-75 2017-08-01 16:28:03,885 info] process shutting down
+[INFO PoolWorker-75 2017-08-01 16:28:03,885 info] process exiting with exitcode 0
+[INFO PoolWorker-54 2017-08-01 16:28:03,886 info] process shutting down
+[INFO PoolWorker-54 2017-08-01 16:28:03,886 info] process exiting with exitcode 0
+[INFO PoolWorker-63 2017-08-01 16:28:03,886 info] process shutting down
+[INFO PoolWorker-63 2017-08-01 16:28:03,886 info] process exiting with exitcode 0
+[INFO PoolWorker-71 2017-08-01 16:28:03,888 info] process shutting down
+[INFO PoolWorker-71 2017-08-01 16:28:03,888 info] process exiting with exitcode 0
+[INFO PoolWorker-37 2017-08-01 16:28:03,890 info] process shutting down
+[INFO PoolWorker-37 2017-08-01 16:28:03,891 info] process exiting with exitcode 0
+[INFO PoolWorker-7 2017-08-01 16:28:03,903 info] process shutting down
+[[INFO PoolWorker-40 2017-08-01 16:28:04,056 info] process exiting with exitcode 0
+[INFO MainProcess 2017-08-01 16:28:08,572 <module>] 
+[ end time: Tue Aug  1 16:28:08 2017]
+[INFO MainProcess 2017-08-01 16:28:08,573 info] process shutting down
+0
+[INFO PoolWorker-7 2017-08-01 16:28:04,067 info] process exiting with exitcode 0
